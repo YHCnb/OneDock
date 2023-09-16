@@ -1,7 +1,7 @@
 # OneDock
 a Program Dock for windows10
 
-这是一个简洁的windows dock栏，你可以借助它轻松地管理你的软件，还你一个整洁有序的windows界面
+这是一个简洁的windows dock栏，你可以借助它轻松地管理你的软件，还你一个整洁有序的windows界面.
 
 我们有：
 - 实现对应用程序的便携式管理
