@@ -11,9 +11,8 @@ a Program Dock for windows10
 - 支持拖动文件至添加图标框来实现图标的添加，更为便捷
 - 支持lnk快捷方式代替应用程序添加至界面。
 
-![image](https://github.com/YHCnb/OneDock/assets/112797916/5f2945bd-20b1-4228-a134-d835aa66284d 400x300)
-<img src="https://github.com/YHCnb/OneDock/assets/112797916/5f2945bd-20b1-4228-a134-d835aa66284d" width="100px">
+<img src="https://github.com/YHCnb/OneDock/assets/112797916/5f2945bd-20b1-4228-a134-d835aa66284d" width="500px">
 
-![image](https://github.com/YHCnb/OneDock/assets/112797916/8670107c-b4ca-4658-b7bd-e56135838d00 400x300)
+<img src="https://github.com/YHCnb/OneDock/assets/112797916/8670107c-b4ca-4658-b7bd-e56135838d00" width="500px">
 
 更多详细操作，请看assets中的gif演示（一部分过大文件未能上传）
