@@ -1,2 +1,2 @@
 # OneDock
-a Program dock for windows10
+a Program Dock for windows10
